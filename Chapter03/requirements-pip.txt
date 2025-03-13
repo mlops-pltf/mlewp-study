@@ -12,3 +12,5 @@ auto-sklearn
 jupyter
 mlflow
 matplotlib
+hyperopt
+optuna
